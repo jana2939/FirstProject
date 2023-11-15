@@ -1,4 +1,2 @@
 Hi Jana
 first project 
-git 
-c update
